@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/EvolvFit/static/css/main.cc2848e4.chunk.css",
+    "main.js": "/EvolvFit/static/js/main.2cde444a.chunk.js",
+    "main.js.map": "/EvolvFit/static/js/main.2cde444a.chunk.js.map",
+    "runtime-main.js": "/EvolvFit/static/js/runtime-main.1617268f.js",
+    "runtime-main.js.map": "/EvolvFit/static/js/runtime-main.1617268f.js.map",
+    "static/js/2.48fe0183.chunk.js": "/EvolvFit/static/js/2.48fe0183.chunk.js",
+    "static/js/2.48fe0183.chunk.js.map": "/EvolvFit/static/js/2.48fe0183.chunk.js.map",
+    "static/js/3.df823645.chunk.js": "/EvolvFit/static/js/3.df823645.chunk.js",
+    "static/js/3.df823645.chunk.js.map": "/EvolvFit/static/js/3.df823645.chunk.js.map",
+    "index.html": "/EvolvFit/index.html",
+    "static/css/main.cc2848e4.chunk.css.map": "/EvolvFit/static/css/main.cc2848e4.chunk.css.map",
+    "static/js/2.48fe0183.chunk.js.LICENSE.txt": "/EvolvFit/static/js/2.48fe0183.chunk.js.LICENSE.txt",
+    "static/media/add.a24a2f7a.svg": "/EvolvFit/static/media/add.a24a2f7a.svg",
+    "static/media/avocado.864defcc.png": "/EvolvFit/static/media/avocado.864defcc.png",
+    "static/media/admin.css": "/EvolvFit/static/media/background1.a025c8be.jpg",
+    "static/media/delete.822d2a25.svg": "/EvolvFit/static/media/delete.822d2a25.svg",
+    "static/media/favfalse.10183216.svg": "/EvolvFit/static/media/favfalse.10183216.svg",
+    "static/media/favtrue.e9123bc0.svg": "/EvolvFit/static/media/favtrue.e9123bc0.svg",
+    "static/media/logo.ece8506f.svg": "/EvolvFit/static/media/logo.ece8506f.svg",
+    "static/media/searchLogo.658e68ec.svg": "/EvolvFit/static/media/searchLogo.658e68ec.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1617268f.js",
+    "static/js/2.48fe0183.chunk.js",
+    "static/css/main.cc2848e4.chunk.css",
+    "static/js/main.2cde444a.chunk.js"
+  ]
+}
